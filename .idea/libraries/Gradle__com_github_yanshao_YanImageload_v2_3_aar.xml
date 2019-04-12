@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yanshao:YanImageload:v2.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YanImageload-v2.3.aar/3821aadd7605841436bf8014f72f67e2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YanImageload-v2.3.aar/3821aadd7605841436bf8014f72f67e2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yanshao/YanImageload/v2.3/ada5c4d85d9d390290371267622fca61c908bcf2/YanImageload-v2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
