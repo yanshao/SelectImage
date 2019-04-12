@@ -29,4 +29,4 @@ app为示例demo依赖selectimagelib
         }
     }
 
-回调回来根据requestCode和resultCode进行判断  获取传回来的Array<String> 数组
+回调回来根据requestCode和resultCode进行判断  获取传回来的 ArrayList<String> 数组
